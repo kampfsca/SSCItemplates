@@ -1,0 +1,53 @@
+---
+output: 
+  beamer_presentation:
+    template: TexTest.tex
+    keep_tex: TRUE
+    latex_engine: pdflatex # use xelatex here instead! I recommend it, but this is minimal reprex
+    #dev: cairo_pdf # I typically comment this out  if latex_engine: pdflatex
+    slide_level: 3 # I prefer this, but I won't force it on you.
+title: An SSCI Beamer Template
+subtitle: \textit{Another Reason to use Rmarkdown}
+author: Andy Kampfschulte
+#institute: Spatial Sciences Institute
+# titlegraphic: "`r paste0(Sys.getenv('HOME'), '/Dropbox/clemson/watermarks/clemson-university-wordmark-orange-purple.png')`"
+# scaletg: .9 # Optional, proportional (0, 1) to paper width. Defaults to .3
+fontsize: 10pt
+make169: TRUE
+#mainfont: "Heuristica" # Try out some font options if xelatex
+#titlefont: "Adobe Caslon" # Try out some font options if xelatex
+# specify color as six-digit RGB (no pound sign)
+# primarycolor: "990000" 
+# secondarycolor: "000099"
+---
+
+```{r setup, include=FALSE, cache=F, message=F, warning=F, results="hide"}
+knitr::opts_chunk$set(cache=TRUE)
+knitr::opts_chunk$set(fig.path='figs/')
+knitr::opts_chunk$set(cache.path='cache/')
+
+knitr::opts_chunk$set(
+                  fig.process = function(x) {
+                      x2 = sub('-\\d+([.][a-z]+)$', '\\1', x)
+                      if (file.rename(x, x2)) x2 else x
+                      }
+                  )
+library(tidyverse)
+library(stevemisc)
+```
+
+
+# Introduction
+
+### What's Up?
+
+  - I don't Know
+  - Nothing Much
+  - What's up with you?
+
+# Methods
+
+
+# Results
+
+# Conclustions
