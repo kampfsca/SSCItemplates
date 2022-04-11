@@ -1,0 +1,1361 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.4)  10 APR 2022 23:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./skeleton.tex
+(skeleton.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (C:\Users\andyk\AppData\Local\Programs\MiKTeX
+\tex/latex/beamer\beamer.cls
+Document Class: beamer 2022/02/08 v3.66 A class for typesetting presentations
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
+sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box50
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
+.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box51
+)
+\beamer@commentbox=\box52
+\beamer@modecount=\count190
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\headdp=\dimen138
+\footheight=\dimen139
+\sidebarheight=\dimen140
+\beamer@tempdim=\dimen141
+\beamer@finalheight=\dimen142
+\beamer@animht=\dimen143
+\beamer@animdp=\dimen144
+\beamer@animwd=\dimen145
+\beamer@leftmargin=\dimen146
+\beamer@rightmargin=\dimen147
+\beamer@leftsidebar=\dimen148
+\beamer@rightsidebar=\dimen149
+\beamer@boxsize=\dimen150
+\beamer@vboxoffset=\dimen151
+\beamer@descdefault=\dimen152
+\beamer@descriptionwidth=\dimen153
+\beamer@lastskip=\skip47
+\beamer@areabox=\box53
+\beamer@animcurrent=\box54
+\beamer@animshowbox=\box55
+\beamer@sectionbox=\box56
+\beamer@logobox=\box57
+\beamer@linebox=\box58
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
+s.sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks17
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box59
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revi
+sion.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks21
+)))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex
+\pgf@x=\dimen164
+\pgf@xa=\dimen165
+\pgf@xb=\dimen166
+\pgf@xc=\dimen167
+\pgf@y=\dimen168
+\pgf@ya=\dimen169
+\pgf@yb=\dimen170
+\pgf@yc=\dimen171
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count284
+\pgfmath@box=\box60
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex)
+\pgf@x=\dimen175
+\pgf@y=\dimen176
+\pgf@xa=\dimen177
+\pgf@ya=\dimen178
+\pgf@xb=\dimen179
+\pgf@yb=\dimen180
+\pgf@xc=\dimen181
+\pgf@yc=\dimen182
+\pgf@xd=\dimen183
+\pgf@yd=\dimen184
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count290
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen185
+\pgf@picmaxx=\dimen186
+\pgf@picminy=\dimen187
+\pgf@picmaxy=\dimen188
+\pgf@pathminx=\dimen189
+\pgf@pathmaxx=\dimen190
+\pgf@pathminy=\dimen191
+\pgf@pathmaxy=\dimen192
+\pgf@xx=\dimen193
+\pgf@xy=\dimen194
+\pgf@yx=\dimen195
+\pgf@yy=\dimen196
+\pgf@zx=\dimen197
+\pgf@zy=\dimen198
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen199
+\pgf@path@lasty=\dimen256
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen257
+\pgf@shorten@start@additional=\dimen258
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count293
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen259
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen260
+\pgf@pt@y=\dimen261
+\pgf@pt@temp=\dimen262
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen263
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen264
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
+ty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen265
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `implicit' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count301
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen266
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count302
+\Field@Width=\dimen267
+\Fld@charsize=\dimen268
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+\Hy@abspage=\count303
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
+es.sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
+ibility.sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
+ty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
+accent.sty
+Package: sansmathaccent 2020/01/31
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
+ator.sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
+ty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
+eens.sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
+y.sty
+\beamer@argscount=\count306
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count307
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
+sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
+n.sty
+\c@lecture=\count308
+\c@part=\count309
+\c@section=\count310
+\c@subsection=\count311
+\c@subsubsection=\count312
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
+sty
+\beamer@framebox=\box65
+\beamer@frametitlebox=\box66
+\beamer@zoombox=\box67
+\beamer@zoomcount=\count313
+\beamer@zoomframecount=\count314
+\beamer@frametextheight=\dimen269
+\c@subsectionslide=\count315
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks29
+\framewidth=\dimen270
+\c@framenumber=\count316
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
+im.sty
+\beamer@verbatimfileout=\write4
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
+ize.sty
+\beamer@splitbox=\box68
+\beamer@autobreakcount=\count317
+\beamer@autobreaklastheight=\dimen271
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
+omponents.sty
+\beamer@footins=\box69
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
+sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
+sty
+\beamer@frameboxcopy=\box70
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
+y)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
+tes.sty
+\beamer@sbttoks=\toks32
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
+plates.sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
+sty
+\bmb@box=\box71
+\bmb@colorbox=\box72
+\bmb@boxwidth=\dimen272
+\bmb@boxheight=\dimen273
+\bmb@prevheight=\dimen274
+\bmb@temp=\dimen275
+\bmb@dima=\dimen276
+\bmb@dimb=\dimen277
+\bmb@prevheight=\dimen278
+)
+\beamer@blockheadheight=\dimen279
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
+tructure.sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/tools\enum
+erate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\beamer@bibiconwidth=\skip55
+\c@figure=\count318
+\c@table=\count319
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tion.sty
+\beamer@section@min@dim=\dimen280
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
+ms.sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.
+sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip58
+For additional information on amsmath, use the `?' option.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen281
+)) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen282
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count320
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count321
+\leftroot@=\count322
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count323
+\DOTSCASE@=\count324
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box73
+\strutbox@=\box74
+\big@size=\dimen283
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count325
+\c@MaxMatrixCols=\count326
+\dotsspace@=\muskip17
+\c@parentequation=\count327
+\dspbrk@lvl=\count328
+\tag@help=\toks35
+\row@=\count329
+\column@=\count330
+\maxfields@=\count331
+\andhelp@=\toks36
+\eqnshift@=\dimen284
+\alignsep@=\dimen285
+\tagshift@=\dimen286
+\tagwidth@=\dimen287
+\totwidth@=\dimen288
+\lineht@=\dimen289
+\@envbody=\toks37
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
+\dth@everypar=\toks44
+)
+\c@theorem=\count332
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
+.sty))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
+lt.sty
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
+efault.sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+default.sty)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+default.sty
+\beamer@dima=\dimen290
+\beamer@dimb=\dimen291
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+default.sty)))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemes
+tructuresmallcapsserif.sty) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/l
+atex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+12.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks47
+\MT@count=\count333
+\MT@tempbox=\box75
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen292
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count334
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip64
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+)) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/grffile\grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count335
+\rotFPtop=\skip65
+\rotFPbot=\skip66
+\rot@float@box=\box76
+\rot@mess@toks=\toks48
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen293
+\captionmargin@=\dimen294
+\captionwidth=\dimen295
+\caption@tempdima=\dimen296
+\caption@indent=\dimen297
+\caption@parindent=\dimen298
+\caption@hangindent=\dimen299
+Package caption Info: beamer document class detected.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.
+sto
+File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
+ beamer document classes (AR)
+))
+\c@caption@flags=\count336
+\c@continuedfloat=\count337
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+Package caption Info: rotating package is loaded.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box77
+\UL@hyphenbox=\box78
+\UL@skip=\skip67
+\UL@hook=\toks49
+\UL@height=\dimen300
+\UL@pe=\count338
+\UL@pixel=\dimen301
+\ULC@box=\box79
+Package: ulem 2019/11/18
+\ULdepth=\dimen302
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box80
+\TPHorizModule=\dimen303
+\TPVertModule=\dimen304
+\TP@margin=\dimen305
+\TP@absmargin=\dimen306
+Grid set 16 x 16 = 28.45274pt x 16.00467pt
+\TPboxrulesize=\dimen307
+\TP@tbargs=\toks50
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.
+sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box81
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+))
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count339
+\pgfplotmarksize=\dimen312
+)
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box82
+\tikz@figbox@bg=\box83
+\tikz@tempbox=\box84
+\tikz@tempbox@bg=\box85
+\tikztreelevel=\count340
+\tikznumberofchildren=\count341
+\tikznumberofcurrentchild=\count342
+\tikz@fig@count=\count343
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count344
+\pgfmatrixcurrentcolumn=\count345
+\pgf@matrix@numberofcolumns=\count346
+)
+\tikz@expandcount=\count347
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+
+Package pgf Warning: File "figures/SSCIPHP" not found when defining image "PHP"
+. Tried all extensions in ".pdf:.jpg:.jpeg:.png:" on input line 112.
+
+
+Package pgf Warning: Missing height for image "PHP" ("figures/SSCIPHP") in draf
+t mode. Using 1cm instead on input line 112.
+
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count348
+\l__pdf_internal_box=\box86
+) (skeleton.aux)
+\openout1 = `skeleton.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 277.
+LaTeX Font Info:    ... okay on input line 277.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count349
+\scratchdimen=\dimen321
+\scratchbox=\box87
+\nofMPsegments=\count350
+\nofMParguments=\count351
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen322
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
+\everyMPtoPDFconversion=\toks54
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 277.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count355
+)
+LaTeX Info: Redefining \ref on input line 277.
+LaTeX Info: Redefining \pageref on input line 277.
+LaTeX Info: Redefining \nameref on input line 277.
+(skeleton.out) (skeleton.out)
+\@outlinefile=\write5
+\openout5 = `skeleton.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 277.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 277.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 277.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 277.
+\symnumbers=\mathgroup7
+\sympureletters=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 277.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 277.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 277.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 277.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 277.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+asic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+ibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
+nvironment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
+onths-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
+umbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
+heorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \microtypecontext on input line 277.
+Package microtype Info: Applying patch `item' on input line 277.
+Package microtype Info: Applying patch `toc' on input line 277.
+Package microtype Info: Applying patch `eqnum' on input line 277.
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 277.
+
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 277.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(skeleton.nav)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27
+7.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <5> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 277.
+
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 278.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/9'.
+(microtype)             Ignoring protrusion settings for this character.
+
+LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
+(Font)              using `T1/lmr/m/scsl' instead on input line 278.
+
+[1
+
+{C:/Users/andyk/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/Se
+al.png> <./figures/SSI.jpg> <./figures/SSCI.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+294.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+94.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+294.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+294.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 294.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 294.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 294.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 294
+.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 294
+.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 29
+4.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 294.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 294.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 294.
+[2
+
+] [3
+
+]
+\openout4 = `skeleton.vrb'.
+
+(skeleton.vrb
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+0.
+(C:\Users\andyk\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<skeleton_files/figure-beamer/unnamed-chunk-2-1.pdf, id=65, 289.08pt x 289.08pt
+>
+File: skeleton_files/figure-beamer/unnamed-chunk-2-1.pdf Graphic file (type pdf
+)
+<use skeleton_files/figure-beamer/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: skeleton_files/figure-beamer/unnamed-chunk-2-1.pdf  us
+ed on input line 17.
+(pdftex.def)             Requested size: 180.56427pt x 180.56427pt.
+) [4
+
+ <./skeleton_files/figure-beamer/unnamed-chunk-2-1.pdf>]
+<skeleton_files/figure-beamer/unnamed-chunk-3-1.pdf, id=80, 289.08pt x 289.08pt
+>
+File: skeleton_files/figure-beamer/unnamed-chunk-3-1.pdf Graphic file (type pdf
+)
+<use skeleton_files/figure-beamer/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: skeleton_files/figure-beamer/unnamed-chunk-3-1.pdf  us
+ed on input line 330.
+(pdftex.def)             Requested size: 180.56427pt x 180.56427pt.
+[5
+
+ <./skeleton_files/figure-beamer/unnamed-chunk-3-1.pdf>]
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <9> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 362.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/9'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Package hyperref Warning: Ignoring empty anchor on input line 362.
+
+[6
+
+] (skeleton.toc
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+) [7
+
+]
+\tf@nav=\write6
+\openout6 = `skeleton.nav'.
+
+\tf@toc=\write7
+\openout7 = `skeleton.toc'.
+
+\tf@snm=\write8
+\openout8 = `skeleton.snm'.
+
+(skeleton.aux)
+Package rerunfilecheck Info: File `skeleton.out' has not changed.
+(rerunfilecheck)             Checksum: 1F666ED6D06DAC323A00734EF7EC05B9;397.
+ ) 
+Here is how much of TeX's memory you used:
+ 28894 strings out of 478593
+ 578565 string characters out of 2844605
+ 836276 words of memory out of 3000000
+ 46355 multiletter control sequences out of 15000+600000
+ 524907 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,15n,122p,1007b,757s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
+c}{C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
+c}{C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C
+:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><
+C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsco10.pfb
+><C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb>
+<C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb>
+<C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><
+C:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C
+:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb><C
+:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
+:/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:
+/Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/
+Users/andyk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on skeleton.pdf (7 pages, 2818025 bytes).
+PDF statistics:
+ 174 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 34929 words of extra memory for PDF output out of 35830 (max. 10000000)
+
