@@ -12,7 +12,7 @@ output:
     fig_width: 4
     fig_height: 4
     slide_level: 3 # I prefer this, but I won't force it on you.
-    fonttheme: structuresmallcapsserif
+    fonttheme: structuresmallcapsserif # Serif is also a good option
 ---
 
 ```{r setup, include=FALSE}
